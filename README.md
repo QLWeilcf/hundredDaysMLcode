@@ -7,7 +7,7 @@ goal:
 - go deep into basic ML algorithm
 - more than Python
 
-
+- code:[dataProcAndBasicAlgo.ipynb](./dataProcAndBasicAlgo.ipynb)
 
 ---
 
